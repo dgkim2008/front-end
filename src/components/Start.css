@@ -1,0 +1,53 @@
+.start {
+    width: 390px;
+    height: 844px;
+}
+.title {
+    font-size: 57px;
+    font-weight: bold;
+    text-align: center;
+}
+.title-box {
+    position: absolute;
+    width: 261px;
+    height: 138px;
+    left: 64px;
+    top: 91px;
+}
+.find-box {
+    box-sizing: border-box;
+    position: fixed;
+    width: 261px;
+    height: 125px;
+    left: 64px;
+    top: 381px;
+    color: #000000;
+
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
+.find-icon {
+    position: fixed;
+    width: 26px;
+    height: 20px;
+    left: 84px;
+    top: 427px;
+}
+.find-title {
+    position: fixed;
+    width: 207px;
+    height: 38px;
+    left: 115px;
+    top: 426px;
+
+
+    font-weight: 700;
+    font-size: 25px;
+}
+.home-box {
+    position: fixed;
+    width: 119px;
+    height: 106.59px;
+    left: 110px;
+    top: 684px;
+}

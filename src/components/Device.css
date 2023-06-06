@@ -1,0 +1,15 @@
+.device {
+    width: 390px;
+    height: 844px;
+}
+.titlebox {
+    position: absolute;
+    width: 198px;
+    height: 55px;
+    left: 9px;
+    top: 42px;
+
+    font-weight: bold;
+    font-size: 36px;
+    border-bottom: 8px solid black;
+}
