@@ -16,7 +16,7 @@ const Device = () => {
             text: "멍냥급식기"
         }
     ])
-
+    
     return (
         <div className="device">
             <div className="titlebox">멍냥 먹창고</div>
